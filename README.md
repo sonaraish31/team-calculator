@@ -12,3 +12,7 @@ Features:
 Contributors:
 - Aishwarya Sonar
 - Kunal Kakade
+
+---
+
+Version: 1.00
