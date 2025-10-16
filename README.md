@@ -6,3 +6,8 @@ Features:
 - Basic arithmetic (add, subtract, multiply, divide)
 - Advanced operations (sqrt, power, percentage)
 - Command-line user interface
+
+---
+
+Contributors:
+- Aishwarya Sonar
